@@ -40,7 +40,7 @@ In this study we explore an innovative method for stress detection and classific
 
 - Once stress is identified, use the quessionairre model to classsify the severity of stress or anxiety or depression by answering the corresponding questions
 
-## Contributors ✨
+## Collaborators ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
