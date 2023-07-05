@@ -15,6 +15,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "kvm05",
+      "name": "Kartik Menon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75673707?v=4",
+      "profile": "https://github.com/kvm05",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
