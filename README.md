@@ -1,6 +1,6 @@
 # Social Media Stress Detection
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Abstract
@@ -40,6 +40,7 @@ In this study we explore an innovative method for stress detection and classific
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/goldenPheonix02"><img src="https://avatars.githubusercontent.com/u/75632793?v=4?s=100" width="100px;" alt="Jai Patel"/><br /><sub><b>Jai Patel</b></sub></a><br /><a href="https://github.com/goldenPheonix02/social-media-stress-detection/commits?author=goldenPheonix02" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kvm05"><img src="https://avatars.githubusercontent.com/u/75673707?v=4?s=100" width="100px;" alt="Kartik Menon"/><br /><sub><b>Kartik Menon</b></sub></a><br /><a href="https://github.com/goldenPheonix02/social-media-stress-detection/commits?author=kvm05" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/parth0103"><img src="https://avatars.githubusercontent.com/u/90035213?v=4?s=100" width="100px;" alt="parth0103"/><br /><sub><b>parth0103</b></sub></a><br /><a href="https://github.com/goldenPheonix02/social-media-stress-detection/commits?author=parth0103" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
